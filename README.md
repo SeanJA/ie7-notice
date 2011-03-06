@@ -1,0 +1,1 @@
+This will add a small bar at the top of the page encouraging users to upgrade from IE6 / IE7 to a newer version.
